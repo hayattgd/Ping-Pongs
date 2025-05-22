@@ -1,2 +1,2 @@
 main:
-  gcc -lraylib -lm -g main.c -o main
+  gcc -lraylib -lm -g main.c -o main.out

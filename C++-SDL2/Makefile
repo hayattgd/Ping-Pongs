@@ -1,4 +1,4 @@
-NAME = main
+NAME = main.out
 SRC = src/main.cpp
 BUILD_PATH = ./
 
