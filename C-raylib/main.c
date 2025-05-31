@@ -1,4 +1,4 @@
-#include "/usr/include/raylib.h"
+#include <raylib/include/raylib.h>
 #include <math.h>
 
 #define WINDOW_WIDTH 800
